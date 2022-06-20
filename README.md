@@ -1,3 +1,3 @@
 # codecademy_tictactoe
 
-##This is my first project!
+## This is my first project!
